@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dr. C. Muralidharan | Academic Profile</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Dr. C. Muralidharan</h1>
+    <p>Assistant Professor | Department of Computing Technologies</p>
+    <p>SRM Institute of Science and Technology, Kattankulathur</p>
+</header>
+
+<section class="profile">
+    <img src="profile.jpg" alt="Profile Photo">
+    <div>
+        <h2>About Me</h2>
+        <p>
+        Dr. C. Muralidharan is an Assistant Professor in the Department of Computing Technologies 
+        at SRM Institute of Science and Technology. He completed his Ph.D. in Computer Science 
+        and Engineering from Anna University with research focused on Cloud Service Provider 
+        Selection using Risk Analysis.
+        </p>
+        <p>
+        He has over 7 years of academic experience and actively contributes to research in 
+        Cloud Computing, Data Analytics, Machine Learning, and IoT.
+        </p>
+    </div>
+</section>
+
+<section>
+    <h2>Academic Qualifications</h2>
+    <ul>
+        <li>Ph.D. – Computer Science and Engineering, Anna University (2021)</li>
+        <li>M.E. – Computer Science and Engineering, Anna University (2015) – CGPA: 7.9</li>
+        <li>B.Tech – Information Technology, Anna University (2013) – CGPA: 7.79</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Experience</h2>
+    <ul>
+        <li>Assistant Professor – SRM IST, Kattankulathur (Dec 2021 – Present)</li>
+        <li>Assistant Professor – Sri Venkateswara College of Engineering (Jul 2021 – Nov 2021)</li>
+        <li>Assistant Professor – Bannari Amman Institute of Technology (Aug 2020 – May 2021)</li>
+        <li>Research Scholar – Sri Venkateswara College of Engineering (2016 – 2020)</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Research Interests</h2>
+    <ul>
+        <li>Cloud Computing</li>
+        <li>Data Analytics</li>
+        <li>Machine Learning</li>
+        <li>Internet of Things</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Publications & Patents</h2>
+    <ul>
+        <li>International Journals: 9</li>
+        <li>International Conferences: 6</li>
+        <li>National Conferences: 2</li>
+        <li>Book Chapters: 7</li>
+        <li>Patents: 1 Granted, 2 Published</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Achievements</h2>
+    <ul>
+        <li>Department First Rank Holder – B.Tech</li>
+        <li>Cash Award ₹10,000 for academic excellence</li>
+        <li>Second Prize – Faculty Research Day 2018</li>
+        <li>Sponsored for CCNA certification</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects Guided</h2>
+    <ul>
+        <li>M.E Students – 4</li>
+        <li>B.E Students – 18</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Tools & Technologies</h2>
+    <ul>
+        <li>AWS, OpenStack, Eucalyptus</li>
+        <li>CloudSim, GridSim</li>
+        <li>Anaconda</li>
+        <li>Arduino, Raspberry Pi</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: murali20infotech@gmail.com</p>
+    <p>Email: muralidc@srmist.edu.in</p>
+    <p>Mobile: +91 9585579526</p>
+</section>
+
+<footer>
+    <p>© 2026 Dr. C. Muralidharan | SRM Institute of Science and Technology</p>
+</footer>
+
+</body>
+</html>
